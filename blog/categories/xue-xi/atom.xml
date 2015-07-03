@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 学习 | My Octopress Blog]]></title>
+  <title><![CDATA[Category: 学习 | 学无止境]]></title>
   <link href="http://zouzhihao1992.github.io/blog/categories/xue-xi/atom.xml" rel="self"/>
   <link href="http://zouzhihao1992.github.io/"/>
-  <updated>2015-07-03T11:31:48+08:00</updated>
+  <updated>2015-07-03T15:03:41+08:00</updated>
   <id>http://zouzhihao1992.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[zouzhihao1992]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -41,7 +41,7 @@
 
 <p><a href="www.google.com">链接</a></p>
 
-<p><img src="../images/att.jpg" alt="image" /></p>
+<p><img src="" alt="image" /></p>
 
 <pre><code class="java This is a java http://www.google.com link">public class test
 {
