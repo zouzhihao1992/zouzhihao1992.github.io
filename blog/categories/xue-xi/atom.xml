@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 学习 | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/xue-xi/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-07-03T11:14:13+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://yoursite.com/blog/2015/07/03/test/"/>
+    <updated>2015-07-03T08:58:02+08:00</updated>
+    <id>http://yoursite.com/blog/2015/07/03/test</id>
+    <content type="html"><![CDATA[<h1>一级标题</h1>
+
+<h2>二级标题</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标亮</code></p>
+
+<ul>
+<li>一级列表1
+
+<ul>
+<li>二级列表</li>
+</ul>
+</li>
+<li>一级列表2</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="www.google.com">链接</a></p>
+
+<p><img src="../images/att.jpg" alt="image" /></p>
+
+<pre><code class="java This is a java http://www.google.com link">public class test
+{
+    public static void main(String[]
+    {
+        System.out.println("hello");
+    }
+}
+</code></pre>
+
+<p><figure class='code'><figcaption><span>This is a java <a href="http://www.google.com">http://www.google.com</a> link </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="kd">public</span> <span class="kd">class</span> <span class="nc">test</span>
+</span><span class='line'><span class="o">{</span>
+</span><span class='line'>    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span>
+</span><span class='line'>    <span class="o">{</span>
+</span><span class='line'>        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(&amp;</span><span class="n">ldquo</span><span class="o">;</span><span class="n">hello</span><span class="o">&amp;</span><span class="n">rdquo</span><span class="o">;);</span>
+</span><span class='line'>    <span class="o">}</span>
+</span><span class='line'><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure></p>
+]]></content>
+  </entry>
+  
+</feed>
