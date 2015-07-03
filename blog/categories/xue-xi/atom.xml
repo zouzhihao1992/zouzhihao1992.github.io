@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 学习 | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/xue-xi/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-07-03T11:14:13+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://zouzhihao1992.github.io/blog/categories/xue-xi/atom.xml" rel="self"/>
+  <link href="http://zouzhihao1992.github.io/"/>
+  <updated>2015-07-03T11:31:48+08:00</updated>
+  <id>http://zouzhihao1992.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test]]></title>
-    <link href="http://yoursite.com/blog/2015/07/03/test/"/>
+    <link href="http://zouzhihao1992.github.io/blog/2015/07/03/test/"/>
     <updated>2015-07-03T08:58:02+08:00</updated>
-    <id>http://yoursite.com/blog/2015/07/03/test</id>
+    <id>http://zouzhihao1992.github.io/blog/2015/07/03/test</id>
     <content type="html"><![CDATA[<h1>一级标题</h1>
 
 <h2>二级标题</h2>
